@@ -11,7 +11,7 @@ import zipfile
 import os
 
 # Step 1: Define path
-zip_name = "adithya_gun data_set.zip"  # Replace if your ZIP file name is different
+zip_name = "gun data_set.zip"  # Replace if your ZIP file name is different
 unzip_dir = "/content/gun_dataset"     # Folder to unzip into
 
 # Step 2: Unzip safely
